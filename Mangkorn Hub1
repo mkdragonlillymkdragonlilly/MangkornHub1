@@ -3,9 +3,3 @@ if(gameid == 7647631063) then
 print("place valid")
 loadstring(game:HttpGet('https://raw.githubusercontent.com/mkdragonlillymkdragonlilly/GuessTheAnime/main/Mangkorn%20Hub'))()
 end
-
-local gameid = game.PlaceId
-if(gameid == 7991339063) then
-print("place valid")
-loadstring(game:HttpGet('https://raw.githubusercontent.com/mkdragonlillymkdragonlilly/GuessTheAnime/main/RainbowFriends'))()
-end
